@@ -19,9 +19,11 @@ B --> C[Ledger Updated]
 
 4. Roles & Permissions
 
-Role	        Read	    Write	    Submit
-Accounts User	 ✅	        ✅	        ✅
-Accounts Manager ✅	        ✅	        ✅
+| Role             | Read | Write | Submit |
+| ---------------- | ---- | ----- | ------ |
+| Accounts User    | ✅    | ✅     | ✅      |
+| Accounts Manager | ✅    | ✅     | ✅      |
+
 
 5. Typical Customizations
 

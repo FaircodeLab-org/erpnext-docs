@@ -23,8 +23,8 @@ D --> E[Create Sales Invoice]
 
 | Role          | Read | Write | Submit |
 | ------------- | ---- | ----- | ------ |
-| Sales User    | ✅   ✅     | ✅     |
-| Sales Manager | ✅   | ✅   |✅      |
+| Sales User    | ✅    | ✅     | ✅      |
+| Sales Manager | ✅    | ✅     | ✅      |
 
 5. Typical Customizations
 
